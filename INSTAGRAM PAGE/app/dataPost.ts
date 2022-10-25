@@ -13,7 +13,7 @@ const dataPost = [
         "pictureprofile": "https://pbs.twimg.com/profile_images/1528735426751741953/wARlFhAb_400x400.jpg",
         "user": "westcol",
         "ubi": "Medallo City",
-        "content": "https://scontent.fbog1-2.fna.fbcdn.net/v/t39.30808-6/272118443_108368951746399_936139780927308950_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0OmT8p_kw0gAX_qDaxv&_nc_ht=scontent.fbog1-2.fna&oh=00_AT_FumGmadNKncUsA9Yw26egiZfcotX-DVuLuP_oYbp4GQ&oe=633021EF",
+        "content": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2022-09/%20Westcol_0007_1.jpg?itok=iYMiQm4Y",
         "likes": "3421 Likes",
         "description": "LEALTAD",
         "coments": "View all coments",

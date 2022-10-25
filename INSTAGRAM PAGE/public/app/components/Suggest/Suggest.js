@@ -37,7 +37,7 @@ class MySuggest extends HTMLElement {
                 </section>
                 <section class="suggestBox">
                     <section>
-                        <img src="https://scontent.fbog1-2.fna.fbcdn.net/v/t39.30808-6/272859211_6947220261985886_7734054466142436483_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cD7btTvwUE4AX_h8vjV&_nc_ht=scontent.fbog1-2.fna&oh=00_AT8BH8UJFE3DQxaQOGiXc4ysjZ0FaFNCZVt3DGnBiSyU1A&oe=63313C32">
+                        <img src="https://i.pinimg.com/736x/dd/c1/de/ddc1dedf678ebfc4032385ddb5189919.jpg">
                         <h1>deportivocali <br> <span>Followed by nicolasmr21 and 3 more</span></h1>
                     </section>
                     <h2>Follow</h2>
